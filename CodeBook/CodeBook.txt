@@ -1,3 +1,5 @@
+Data was retrieved on October 23, 2015 at http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+
 Subject
 =================
 
